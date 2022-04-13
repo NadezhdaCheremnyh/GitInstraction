@@ -1,4 +1,4 @@
-![Git-Logo](img_7.jpg)
+![Git-Logo](Logo_git.jpg)
 # Работа с Git
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду: `git version`
